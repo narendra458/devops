@@ -1,1 +1,2 @@
 i just want learn git with both the gui and command based
+just check whether the fetch option is working in both the linux and windows git
